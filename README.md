@@ -38,3 +38,6 @@ NMI partialy emulated
 Fake WDEV partialy emulated
 
 BIOS is emulated (31%)
+
+
+more detailsand builds on https://a85emu.xyz
